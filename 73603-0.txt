@@ -314,7 +314,7 @@ and Bunty’s ride.
 
 
                                STORY III
-                     UNCLE WIGGILY AND BUNTY’s RIDE
+                     UNCLE WIGGILY AND BUNTY’S RIDE
 
 
 Out in front of the hollow stump bungalow sat Uncle Wiggily’s
@@ -1400,7 +1400,7 @@ on it, I’ll tell you next about Uncle Wiggily and Bunty’s ball.
 Wiggily?” asked Baby Bunty, the little rabbit girl, as she danced around
 the hollow stump bungalow where she lived with Mr. Longears.
 
-“Hum! Another nice walk in the woods; eh?” asked Uncle Wiggily,
+“Hum! Another nice walk in the woods, eh?” asked Uncle Wiggily,
 suspicious like and premeditated. “Are you going to wear a big hair
 ribbon bow, that comes untied all the while?” he asked.
 
@@ -1717,7 +1717,7 @@ Bunty said:
 
 “Eh! What’s that? Oh, I guess I had my eyes shut!” said the bunny
 gentleman. But he passed the paste pudding to the little goat girl, and
-he was just going to sleep gain, when Bunty said:
+he was just going to sleep again, when Bunty said:
 
 “Oh, Uncle Wiggily! Do try some of these turnip jam tarts! They’re
 wonderful!”
@@ -3196,6 +3196,7 @@ animal friends brimful of entertainment.
 
  1. Typos fixed; non-standard spelling and dialect retained.
  2. Enclosed italics font in _underscores_.
+
 
 
 
